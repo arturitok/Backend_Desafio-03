@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "express": "^4.17.3",
+    "nodemon": "^2.0.15"
+  },
+  "name": "desafio-04",
+  "version": "1.0.0",
+  "description": "Backend Desafío 4 - Servidor con Express",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "start":"node ./src/index.js",
+    "dev": "nodemon ./src/index.js"
+  },
+  "author": "Arturo Keck",
+  "license": "ISC"
+}

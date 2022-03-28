@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Papaya",
+    "price": 123.45,
+    "thumbnail": "https://www.iconfinder.com/icons/7137874/papaya_ripe_slice_fruit_food_vegan_icon",
+    "id": 1
+  },
+  {
+    "title": "Dragonfruit",
+    "price": 234.56,
+    "thumbnail": "https://www.iconfinder.com/icons/4445535/dragon_food_fruit_fruits_healthy_icon",
+    "id": 2
+  },
+  {
+    "title": "Blueberry",
+    "price": 345.67,
+    "thumbnail": "https://www.iconfinder.com/icons/4445543/blueberry_food_fruit_fruits_healthy_icon",
+    "id": 3
+  }
+]
