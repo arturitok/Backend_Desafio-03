@@ -9,7 +9,6 @@ const server = app.listen(port, ()=>{
 
 server.on('error', (error) => {console.log(`error en servidor: ${error}`)})
 
-
 app.get('/productos', async (req, res) => {
 	const productosArchivo = new Contenedor('./data/productos.txt');
 

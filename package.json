@@ -3,9 +3,9 @@
     "express": "^4.17.3",
     "nodemon": "^2.0.15"
   },
-  "name": "desafio-04",
+  "name": "desafio-03",
   "version": "1.0.0",
-  "description": "Backend Desafío 4 - Servidor con Express",
+  "description": "Backend Desafío 3 - Servidor con Express",
   "main": "index.js",
   "devDependencies": {},
   "scripts": {
